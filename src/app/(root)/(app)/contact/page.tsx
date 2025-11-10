@@ -41,7 +41,7 @@ export default function ContactPage() {
             <h2 className="mb-3 text-lg font-bold">MOBILE PHONE</h2>
             <p className="text-sm leading-5">
               <span>Call: </span>
-              <span className="hover:text-yellow-600">+91 9686293233</span>
+              <span className="hover:text-yellow-600"></span>
             </p>
           </div>
         </div>
